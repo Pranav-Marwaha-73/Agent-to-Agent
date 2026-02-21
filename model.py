@@ -2,7 +2,7 @@ import os
 from google import genai
 
 # Use your actual API key
-API_KEY = "AIzaSyAGcUGYnFMmaO81IKrDyA1Au6HSjYNhCDM"
+API_KEY = ""
 
 client = genai.Client(api_key=API_KEY)
 
